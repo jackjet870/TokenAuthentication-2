@@ -1,0 +1,12 @@
+G:\Works\TokenAuthentication\TokenAuthentication.Data\obj\Debug\TokenAuthentication.Data.csprojResolveAssemblyReference.cache
+G:\Works\TokenAuthentication\TokenAuthentication.Data\bin\Debug\TokenAuthentication.Data.dll.config
+G:\Works\TokenAuthentication\TokenAuthentication.Data\bin\Debug\TokenAuthentication.Data.dll
+G:\Works\TokenAuthentication\TokenAuthentication.Data\bin\Debug\TokenAuthentication.Data.pdb
+G:\Works\TokenAuthentication\TokenAuthentication.Data\bin\Debug\EntityFramework.dll
+G:\Works\TokenAuthentication\TokenAuthentication.Data\bin\Debug\EntityFramework.SqlServer.dll
+G:\Works\TokenAuthentication\TokenAuthentication.Data\bin\Debug\EntityFramework.xml
+G:\Works\TokenAuthentication\TokenAuthentication.Data\bin\Debug\EntityFramework.SqlServer.xml
+G:\Works\TokenAuthentication\TokenAuthentication.Data\obj\Debug\TokenAuthentication.Data.dll
+G:\Works\TokenAuthentication\TokenAuthentication.Data\obj\Debug\TokenAuthentication.Data.pdb
+G:\Works\TokenAuthentication\TokenAuthentication.Data\obj\Debug\TokenAuthentication.Data.Migrations.initialcreate.resources
+G:\Works\TokenAuthentication\TokenAuthentication.Data\obj\Debug\TokenAuthentication.Data.csproj.GenerateResource.Cache

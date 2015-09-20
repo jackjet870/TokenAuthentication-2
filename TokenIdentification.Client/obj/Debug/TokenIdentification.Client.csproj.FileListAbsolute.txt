@@ -1,0 +1,5 @@
+G:\Works\TokenAuthentication\TokenIdentification.Client\bin\Debug\TokenIdentification.Client.exe.config
+G:\Works\TokenAuthentication\TokenIdentification.Client\bin\Debug\TokenIdentification.Client.exe
+G:\Works\TokenAuthentication\TokenIdentification.Client\bin\Debug\TokenIdentification.Client.pdb
+G:\Works\TokenAuthentication\TokenIdentification.Client\obj\Debug\TokenIdentification.Client.exe
+G:\Works\TokenAuthentication\TokenIdentification.Client\obj\Debug\TokenIdentification.Client.pdb
